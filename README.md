@@ -20,7 +20,7 @@ With extra help on the analysis from Dan Wainwright and Paul Bradshaw in the Eng
 
 ## Get the data
 
-* *To be added*
+* CSV: [Football club companies: company numbers, Companies House URLs and OpenCorporates corporate grouping URLs](https://github.com/BBC-Data-Unit/football-finances/blob/master/footballclub_companies_groupings.csv)
 
 ## Interviews and quotes (Premier League: 11 of 20 clubs could have made profits in 2016-17 without fans at games)
 
